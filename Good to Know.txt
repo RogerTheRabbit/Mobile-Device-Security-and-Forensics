@@ -1,0 +1,2 @@
+adb is located at: /AppData/Local/Android/Sdk/platform-tools
+run adb with ``adb.exe shell``
