@@ -1,0 +1,1 @@
+Password for signingKeys.jks = 123456
