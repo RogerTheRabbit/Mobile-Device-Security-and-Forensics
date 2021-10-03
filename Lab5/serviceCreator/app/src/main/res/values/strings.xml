@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">serviceCreator</string>
+    <string name="perm_desc">Use wifi service Lab 5</string>
+    <string name="perm_label">Lab 5 Permission</string>
+</resources>
